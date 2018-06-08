@@ -1,0 +1,9 @@
+package com.internousdev.login.utill;
+import java.sql.Connection;
+import java.sql.DriveManager;
+import java.sql.SQLException;
+
+
+public class DBconnector {
+
+}

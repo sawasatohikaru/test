@@ -1,0 +1,7 @@
+package com.internousdev.login.utill;
+import java.sql.Connection;
+
+
+public class DBconnector {
+
+}
