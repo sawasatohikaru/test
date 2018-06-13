@@ -1,4 +1,5 @@
-package com.internousdev.dto;
+package com.internousdev.login.dto;
+
 public class LoginDTO {
 	private int id;
 	private String name;
@@ -27,4 +28,5 @@ public class LoginDTO {
 	public void setPassword(String password) {
 		this.password = password;
 	}
+
 }
